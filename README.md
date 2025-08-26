@@ -41,16 +41,14 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
 
 </div>
 
