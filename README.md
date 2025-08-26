@@ -1,4 +1,11 @@
 ## Hi there 👋
+### 🕹️ Play Breakout with My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 <!--
 **neallcassandra/neallcassandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
