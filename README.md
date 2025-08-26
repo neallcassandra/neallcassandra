@@ -61,19 +61,19 @@
 <div align="center">
 
 ### 📈 Workforce Analytics Excellence
-🔸 **Advanced Power BI Development** - Creating comprehensive dashboards that transform raw workforce data into strategic insights  
-🔸 **DAX Mastery** - Building complex calculations and measures for sophisticated reporting  
-🔸 **Process Automation** - Streamlining analytical workflows with Power Automate  
+🔹 **Advanced Power BI Development** - Creating comprehensive dashboards that transform raw workforce data into strategic insights  
+🔹 **DAX Mastery** - Building complex calculations and measures for sophisticated reporting  
+🔹 **Process Automation** - Streamlining analytical workflows with Power Automate  
 
 ### ☁️ Cloud Development Transition  
-🔸 **AWS Fundamentals** - Building foundational knowledge in cloud architecture and services  
-🔸 **Python for Cloud** - Developing programming skills focused on cloud applications  
-🔸 **Scalable Solutions** - Learning to architect systems that grow with business needs  
+🔹 **AWS Fundamentals** - Building foundational knowledge in cloud architecture and services  
+🔹 **Python for Cloud** - Developing programming skills focused on cloud applications  
+🔹 **Scalable Solutions** - Learning to architect systems that grow with business needs  
 
 ### 🔄 Integration & Innovation
-🔸 **Data Pipeline Development** - Connecting analytics expertise with modern development practices  
-🔸 **Business Intelligence Evolution** - Bridging traditional BI with cloud-native solutions  
-🔸 **Strategic Problem Solving** - Applying analytical thinking to technical challenges  
+🔹 **Data Pipeline Development** - Connecting analytics expertise with modern development practices  
+🔹 **Business Intelligence Evolution** - Bridging traditional BI with cloud-native solutions  
+🔹 **Strategic Problem Solving** - Applying analytical thinking to technical challenges  
 
 </div>
 
