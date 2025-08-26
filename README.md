@@ -1,12 +1,5 @@
 <div align="center">
 
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"
-    style="transform: rotate(1deg);"
-  />
-</div>
-<div align="center">
-
 # 🌸 Cassandra Neall 🌸
 ### 📊 Workforce Analyst  × 📈 Data Storyteller × ☁️ Aspiring Cloud Developer
 *Transforming workforce insights into data-driven solutions*
@@ -97,6 +90,12 @@
 **Next Steps:** Expanding AWS knowledge while continuing to deliver high-impact analytical solutions
 
 ---
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"
+    style="transform: rotate(180deg);"
+  />
+</div>
 
 ## 🗣️ Connect & Collaborate
 
