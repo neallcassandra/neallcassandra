@@ -124,9 +124,7 @@ mindmap
 ## 🌈 Recent Activity
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neallcassandra&theme=radical&bg_color=0D1117&color=9333EA&line=EC4899&point=F59E0B&area=true&hide_border=true)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 
 ---
@@ -140,8 +138,6 @@ mindmap
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio)
 
 **Let's discuss:** Data analytics • Cloud development • Automation solutions • Career transitions
-
-![Profile Views](https://komarev.com/ghpvc/?username=neallcassandra&color=9333EA&style=for-the-badge&label=Profile+Views)
 
 </div>
 
