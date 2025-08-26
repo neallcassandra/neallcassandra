@@ -90,12 +90,6 @@
 **Next Steps:** Expanding AWS knowledge while continuing to deliver high-impact analytical solutions
 
 ---
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"
-    style="transform: rotate(180deg);"
-  />
-</div>
 
 ## 🗣️ Connect & Collaborate
 
@@ -116,6 +110,11 @@
 ### ✨ *"Where analytical expertise meets cloud innovation"* ✨
 
 *Building tomorrow's solutions with today's insights*
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"
+    style="transform: rotate(180deg);"
+  />
 
 </div>
 
