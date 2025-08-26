@@ -101,9 +101,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-820075?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neallcassandra/Portfolio)
 
 **Let's discuss:** Data analytics • Cloud development • Automation solutions • Career transitions
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
+
 
 </div>
 
