@@ -1,10 +1,13 @@
 <div align="center">
 
-# 🌟 Cassandra Neall
-### 📊 Workforce Analyst × ☁️ Aspiring Cloud Developer × 📈 Data Storyteller
-*Transforming workforce insights into scalable cloud solutions*
+# 🌸 Cassandra Neall 🌸
+### 📊 Workforce Analyst  × 📈 Data Storyteller × ☁️ Aspiring Cloud Developer
+*Transforming workforce insights into data-driven solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Power+BI+%2B+DAX+Mastery;AWS+Cloud+Development+Journey;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=100&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Automation+%26+Data+Obsessed;Power+BI+Enthusiast;Leveling+Up+in+the+Cloud)](https://git.io/typing-svg)
+
+
+
 
 </div>
 
@@ -14,20 +17,29 @@
 
 <div align="center">
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
 ### 💻 Data & Analytics Powerhouse
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E391D3?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-D074C0?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-BC57AD?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-A93A9B?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-951D88?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-820075?style=for-the-badge)
 
 ### 🚀 Cloud Development Journey
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-00BCF2?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-BB90E2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-A878D2?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-9660C2?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-8348B2?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-7030A2?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-5E1892?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-4B0082?style=for-the-badge)
 
-</div>
+
+
 
 ---
 
