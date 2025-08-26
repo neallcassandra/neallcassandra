@@ -4,7 +4,7 @@
 ### 📊 Workforce Analyst × ☁️ Aspiring Cloud Developer × 📈 Data Storyteller
 *Transforming workforce insights into scalable cloud solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Power+BI+%2B+DAX+Mastery;AWS+Cloud+Development+Journey;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Power+BI+%2B+DAX+Mastery;AWS+Cloud+Development+Journey;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,25 +35,10 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-![Cassandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neallcassandra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neallcassandra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neallcassandra&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neallcassandra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neallcassandra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
 </div>
 
@@ -124,22 +109,6 @@ mindmap
 
 ---
 
-## 📊 Skills Progression
-
-<div align="center">
-
-**Workforce Analytics** `████████████████████` 95%  
-**Power BI & DAX** `███████████████████` 90%  
-**Data Visualization** `██████████████████` 85%  
-**Process Automation** `█████████████████` 80%  
-**Python Development** `████████████` 60%  
-**AWS Cloud Services** `███████` 35%  
-**Git & Version Control** `██████████` 50%  
-
-</div>
-
----
-
 ## 💫 Professional Vision
 
 **Current Role:** Workforce Analyst leveraging data to drive organizational insights and efficiency
@@ -156,7 +125,7 @@ mindmap
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neallcassandra&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neallcassandra&theme=radical&bg_color=0D1117&color=9333EA&line=EC4899&point=F59E0B&area=true&hide_border=true)
 
 </div>
 
@@ -172,7 +141,7 @@ mindmap
 
 **Let's discuss:** Data analytics • Cloud development • Automation solutions • Career transitions
 
-![Profile Views](https://komarev.com/ghpvc/?username=neallcassandra&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=neallcassandra&color=9333EA&style=for-the-badge&label=Profile+Views)
 
 </div>
 
