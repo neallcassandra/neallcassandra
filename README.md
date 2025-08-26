@@ -17,10 +17,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
 ### 💻 Data & Analytics Powerhouse
 ![Power BI](https://img.shields.io/badge/Power%20BI-E391D3?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-D074C0?style=for-the-badge)
@@ -48,6 +44,12 @@
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 </div>
 
