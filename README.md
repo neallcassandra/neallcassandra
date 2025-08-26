@@ -35,10 +35,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neallcassandra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=neallcassandra&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=EC4899&fire=F59E0B&currStreakLabel=9333EA)
 
 </div>
 
@@ -124,7 +121,7 @@ mindmap
 ## 🌈 Recent Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA,EC4899,F59E0B&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 
 ---
