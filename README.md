@@ -4,6 +4,7 @@
     style="transform: rotate(180deg);"
   />
 </div>
+<div align="center">
 # 🌸 Cassandra Neall 🌸
 ### 📊 Workforce Analyst  × 📈 Data Storyteller × ☁️ Aspiring Cloud Developer
 *Transforming workforce insights into data-driven solutions*
