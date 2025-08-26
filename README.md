@@ -118,14 +118,6 @@ mindmap
 
 ---
 
-## 🌈 Recent Activity
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA,EC4899,F59E0B&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
-
----
-
 ## 🎨 Connect & Collaborate
 
 <div align="center">
@@ -146,4 +138,8 @@ mindmap
 
 *Building tomorrow's solutions with today's insights*
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=143,0,244&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
