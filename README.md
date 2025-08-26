@@ -55,33 +55,6 @@
 
 ---
 
-## 🌟 Professional Journey
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Cassandra Neall))
-    Workforce Analytics 📊
-      Power BI Dashboards
-      DAX Expertise
-      Process Optimization
-      Stakeholder Reporting
-    Cloud Development ☁️
-      AWS Learning Path
-      Python Development
-      Automation Solutions
-      Scalable Architecture
-    Data-Driven Innovation 🚀
-      Business Intelligence
-      Cloud Integration
-      Workflow Automation
-      Strategic Insights
-```
-
-</div>
-
----
 
 ## 🎯 Current Focus Areas
 
@@ -106,20 +79,6 @@ mindmap
 
 ---
 
-## 🚀 Featured Projects & Achievements
-
-<div align="center">
-
-| 🏆 **Analytics Excellence** | ☁️ **Development Growth** | 🔧 **Innovation Lab** |
-|:---:|:---:|:---:|
-| Comprehensive workforce dashboards | AWS cloud learning projects | Interactive web applications |
-| Advanced DAX formulations | Python automation scripts | Process optimization tools |
-| Stakeholder reporting systems | Cloud architecture studies | Creative coding solutions |
-
-</div>
-
----
-
 ## 💫 Professional Vision
 
 **Current Role:** Workforce Analyst leveraging data to drive organizational insights and efficiency
@@ -132,13 +91,13 @@ mindmap
 
 ---
 
-## 🎨 Connect & Collaborate
+## 🗣️ Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neallcassandra/)
+[![Email](https://img.shields.io/badge/Email-413C95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neallcassandra@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-820075?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neallcassandra/Portfolio)
 
 **Let's discuss:** Data analytics • Cloud development • Automation solutions • Career transitions
 
