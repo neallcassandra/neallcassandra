@@ -48,7 +48,7 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neallcassandra&theme=tokyonight&hide_border=true&background=00000000&stroke=56d364&ring=951d88&fire=9333EA&currStreakLabel=56d364&sideNums=1f6feb&dates=196c2e)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neallcassandra&theme=tokyonight&hide_border=true&background=00000000&stroke=1f6feb&ring=951d88&fire=9333EA&currStreakLabel=1f6feb&sideNums=4ac26b&dates=116329&sideLabels=2da44e)
 
 </div>
 
