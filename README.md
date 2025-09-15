@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🌸 Cassandra Neall 🌸
-### 📊 Workforce Analyst  × 📈 Data Storyteller × ☁️ Aspiring Cloud Developer
+### 📊 Workforce Analyst  × 📈 Data Storyteller × 📊 Aspiring Data Analyst
 *Transforming workforce insights into data-driven solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=100&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Automation+%26+Data+Obsessed;Power+BI+Enthusiast;Leveling+Up+in+the+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=100&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Automation+%26+Data+Obsessed;Power+BI+Enthusiast;Advanced+Analytics+Journey)](https://git.io/typing-svg)
 
 
 
@@ -26,14 +26,12 @@
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-951D88?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-820075?style=for-the-badge)
 
-### 🚀 Cloud Development Journey
-![AWS](https://img.shields.io/badge/AWS-BB90E2?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-A878D2?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-9660C2?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-8348B2?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-7030A2?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-5E1892?style=for-the-badge)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-4B0082?style=for-the-badge)
+### 🚀 Advanced Analytics Journey
+![Python](https://img.shields.io/badge/Python-BB90E2?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-A878D2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9660C2?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-8348B2?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-7030A2?style=for-the-badge)
 
 
 
@@ -64,15 +62,15 @@
 🔹 **DAX Mastery** - Building complex calculations and measures for sophisticated reporting  
 🔹 **Process Automation** - Streamlining analytical workflows with Power Automate  
 
-### ☁️ Cloud Development Transition  
-🔹 **AWS Fundamentals** - Building foundational knowledge in cloud architecture and services  
-🔹 **Python for Cloud** - Developing programming skills focused on cloud applications  
-🔹 **Scalable Solutions** - Learning to architect systems that grow with business needs  
+### 📊 Advanced Data Analytics Transition  
+🔹 **Statistical Analysis** - Deepening expertise in statistical methods and hypothesis testing  
+🔹 **SQL & Python Mastery** - Developing programming skills for data manipulation, analysis, and automation  
+🔹 **Predictive Modeling** - Building analytical models to forecast trends and behaviors  
 
 ### 🔄 Integration & Innovation
-🔹 **Data Pipeline Development** - Connecting analytics expertise with modern development practices  
-🔹 **Business Intelligence Evolution** - Bridging traditional BI with cloud-native solutions  
-🔹 **Strategic Problem Solving** - Applying analytical thinking to technical challenges  
+🔹 **Data Pipeline Development** - Connecting analytics expertise with modern data processing techniques  
+🔹 **Business Intelligence Evolution** - Bridging traditional BI with advanced analytical capabilities  
+🔹 **Strategic Problem Solving** - Applying analytical thinking to complex data challenges  
 
 </div>
 
@@ -82,11 +80,11 @@
 
 **Current Role:** Workforce Analyst leveraging data to drive organizational insights and efficiency
 
-**Transition Goal:** Cloud Developer who brings analytical rigor to scalable solution development  
+**Transition Goal:** Data Analyst who combines domain expertise with advanced analytical methodologies  
 
-**Unique Value:** Combining deep workforce analytics expertise with modern cloud development skills to build solutions that truly understand business needs
+**Unique Value:** Blending deep workforce analytics experience with modern data science techniques to uncover actionable insights
 
-**Next Steps:** Expanding AWS knowledge while continuing to deliver high-impact analytical solutions
+**Next Steps:** Expanding statistical analysis and predictive modeling skills while continuing to deliver high-impact analytical solutions
 
 ---
 
@@ -98,8 +96,7 @@
 [![Email](https://img.shields.io/badge/Email-413C95?style=for-the-badge)](mailto:neallcassandra@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-820075?style=for-the-badge)](https://github.com/neallcassandra/Portfolio)
 
-**Let's discuss:** Data analytics • Cloud development • Automation solutions • Career transitions
+**Let's discuss:** Data analytics • Statistical analysis • Predictive modeling • Career transitions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:951D88,50:5E1892,100:1f6feb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
 
 </div>
-
