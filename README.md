@@ -94,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/neallcassandra/)
 [![Email](https://img.shields.io/badge/Email-413C95?style=for-the-badge)](mailto:neallcassandra@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-820075?style=for-the-badge)]([https://github.com/neallcassandra/Portfolio](https://www.neallcassandra.com/))
+[![Website](https://img.shields.io/badge/Website-820075?style=for-the-badge)](https://www.neallcassandra.com/)
 
 **Let's discuss:** Data analytics • Statistical analysis • Predictive modeling • Career transitions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:951D88,50:5E1892,100:1f6feb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
